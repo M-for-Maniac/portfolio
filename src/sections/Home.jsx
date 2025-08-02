@@ -7,7 +7,7 @@ function Home() {
   return (
     <div className="container flex flex-col items-center justify-center min-h-[60vh] py-8">
       <img
-        src="/assets/images/profile.jpg"
+        src="./assets/images/profile.jpg"
         alt={t('home.profile_alt')}
         className="w-40 h-40 rounded-full mb-6 border-4 border-orange-500 shadow-md hover:scale-105 hover:shadow-lg transition-transform duration-300"
       />

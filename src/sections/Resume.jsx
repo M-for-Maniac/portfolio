@@ -9,7 +9,7 @@ function Resume() {
         <h1>{t('resume.title')}</h1>
         <div className="resume-card">
           <p>{t('resume.description')}</p>
-          <a href="/assets/resume.pdf" download>
+          <a href="./assets/resume.pdf" download>
             {t('resume.download')}
             <span className="icon-wrapper">
               <svg

@@ -8,7 +8,7 @@ export const projects = [
     technologies: ['React', 'Flask', 'SQLite', 'Pandas', 'Tailwind CSS', 'Chart.js'],
     features: ['recipe-nutrition', 'interface', 'deployment'],
     challenges: ['numpy', 'cors'],
-    thumbnail: '/assets/images/Nutrino.JPG'
+    thumbnail: './assets/images/Nutrino.JPG'
   },
   {
     id: 'gabbeh',
@@ -19,7 +19,7 @@ export const projects = [
     technologies: ['React', 'Tailwind CSS', 'i18next'],
     features: ['ecommerce', 'popups', 'menu'],
     challenges: ['accessibility', 'rtl'],
-    thumbnail: '/assets/images/Gabbeh.JPG'
+    thumbnail: './assets/images/Gabbeh.JPG'
   },
   {
     id: 'navigation-app',
@@ -30,7 +30,7 @@ export const projects = [
     technologies: ['React', 'Tailwind CSS', 'Web Speech API', 'React Router'],
     features: ['navigation', 'design', 'aria'],
     challenges: ['assets', 'routing'],
-    thumbnail: '/assets/images/Wayfinding.JPG'
+    thumbnail: './assets/images/Wayfinding.JPG'
   },
   {
     id: 'email-analyzer',
@@ -41,7 +41,7 @@ export const projects = [
     technologies: ['Python', 'Flask', 'Google APIs', 'OpenRouter API', 'Leapcell'],
     features: ['emails', 'replies', 'sheets'],
     challenges: ['oauth', 'api'],
-    thumbnail: '/assets/images/EmailBot.JPG'
+    thumbnail: './assets/images/EmailBot.JPG'
   },
   {
     id: 'dubai-real-estate',
@@ -52,7 +52,7 @@ export const projects = [
     technologies: ['React', 'Tailwind CSS', 'i18next', 'Vite'],
     features: ['listings', 'filters', 'seo'],
     challenges: ['translations', 'spa'],
-    thumbnail: '/assets/images/DubaiProp.JPG'
+    thumbnail: './assets/images/DubaiProp.JPG'
   },
   {
     id: 'inoway',
@@ -63,6 +63,6 @@ export const projects = [
     technologies: ['React', 'Tailwind CSS', 'react-i18next', 'Video.js'],
     features: ['thumbnails', 'languages', 'interface'],
     challenges: ['placeholder', 'rtl'],
-    thumbnail: '/assets/images/Inoway.JPG'
+    thumbnail: './assets/images/Inoway.JPG'
   }
 ];
