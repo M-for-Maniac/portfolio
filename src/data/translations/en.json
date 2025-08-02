@@ -1,0 +1,132 @@
+{
+  "home": {
+    "profile_alt": "My profile picture",
+    "title": "——|| Hey there, I'm Mehrbod ||—— Data Lover & Code Enthusiast!",
+    "description": "Athlete by day, developer by night, I craft innovative web solutions with a passion for data and design.",
+    "cta": "Explore My Projects"
+  },
+  "nav": {
+    "home": "Home",
+    "projects": "Projects",
+    "skills": "Skills",
+    "resume": "Resume",
+    "contact": "Contact",
+    "toggle": "Open menu",
+    "close": "Close menu"
+  },
+  "skills": {
+    "title": "My Skills",
+    "technical": "Tech Stack",
+    "soft": "Soft Skills",
+    "technical.react": "React",
+    "technical.flask": "Flask",
+    "technical.python": "Python",
+    "technical.sqlite": "SQLite",
+    "technical.pandas": "Pandas",
+    "technical.numpy": "NumPy",
+    "technical.tailwind": "Tailwind CSS",
+    "technical.i18next": "i18next",
+    "technical.web_speech": "Web Speech API",
+    "technical.google_apis": "Google APIs",
+    "soft.problem_solving": "Creative Problem Solving",
+    "soft.resourcefulness": "Resourcefulness",
+    "soft.project_management": "Project Management",
+    "soft.documentation": "Clear Documentation"
+  },
+  "projects": {
+    "title": "My Creations",
+    "technologies": "Tech Used",
+    "demo": "Live Demo",
+    "repository": "Code Repository",
+    "nutrition-calculator": {
+      "title": "Nutrition Calculator",
+      "description": "A fun tool to analyze recipe nutrition, built with love for foodies and data nerds alike!",
+      "features": {
+        "recipe-nutrition": "Calculates nutritional values for your favorite recipes",
+        "interface": "Sleek, user-friendly interface for easy navigation",
+        "deployment": "Hosted seamlessly on GitHub Pages"
+      },
+      "challenges": {
+        "numpy": "Mastering NumPy for precise calculations",
+        "cors": "Tackling CORS hurdles in Flask"
+      }
+    },
+    "gabbeh": {
+      "title": "Gabbeh Trays",
+      "description": "An e-commerce platform showcasing beautiful trays, designed with accessibility in mind.",
+      "features": {
+        "ecommerce": "Smooth e-commerce experience for browsing trays",
+        "popups": "Interactive popups for product details",
+        "menu": "Responsive menu for effortless navigation"
+      },
+      "challenges": {
+        "accessibility": "Ensuring WCAG-compliant accessibility",
+        "rtl": "Crafting a seamless RTL experience"
+      }
+    },
+    "navigation-app": {
+      "title": "Voice Navigation App",
+      "description": "A voice-activated navigation tool, blending modern design with accessibility.",
+      "features": {
+        "navigation": "Voice-guided navigation for ease of use",
+        "design": "Clean, modern UI for a delightful experience",
+        "aria": "ARIA attributes for enhanced accessibility"
+      },
+      "challenges": {
+        "assets": "Optimizing asset loading for speed",
+        "routing": "Implementing dynamic routing with React Router"
+      }
+    },
+    "email-analyzer": {
+      "title": "Email Analyzer Bot",
+      "description": "A smart bot that analyzes emails and generates replies, perfect for busy professionals.",
+      "features": {
+        "emails": "Automated email analysis with AI",
+        "replies": "Smart, context-aware reply generation",
+        "sheets": "Seamless integration with Google Sheets"
+      },
+      "challenges": {
+        "oauth": "Navigating OAuth for Google APIs",
+        "api": "Managing rate limits with external APIs"
+      }
+    },
+    "dubai-real-estate": {
+      "title": "Dubai Real Estate",
+      "description": "A vibrant platform for browsing Dubai properties, optimized for global users.",
+      "features": {
+        "listings": "Dynamic property listings with rich details",
+        "filters": "Advanced filters for tailored searches",
+        "seo": "SEO-optimized for better visibility"
+      },
+      "challenges": {
+        "translations": "Supporting multiple languages flawlessly",
+        "spa": "Boosting performance for single-page apps"
+      }
+    },
+    "inoway": {
+      "title": "Inoway",
+      "description": "A multilingual video platform with an intuitive interface, built for creators.",
+      "features": {
+        "thumbnails": "Dynamic video thumbnails for engaging previews",
+        "languages": "Support for multiple languages",
+        "interface": "Intuitive design for effortless use"
+      },
+      "challenges": {
+        "placeholder": "Managing placeholder content effectively",
+        "rtl": "Perfecting RTL layout adjustments"
+      }
+    }
+  },
+  "resume": {
+    "title": "My Resume",
+    "description": "Grab my resume to dive into my journey as a data lover and code enthusiast!",
+    "download": "Download Resume"
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "description": "I’m always excited to connect! Reach out via email, LinkedIn, or GitHub.",
+    "email": "Email",
+    "linkedin": "LinkedIn",
+    "github": "GitHub"
+  }
+}
